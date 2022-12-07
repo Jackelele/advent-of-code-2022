@@ -5,10 +5,10 @@
 - [Day 3](./Day3/day3.md)
 - [Day 4](./Day4/day4.md)
 - [Day 5](./Day5/day5.md)
-
-Prepared:
 - [Day 6](./Day6/day6.md)
 - [Day 7](./Day7/day7.md)
+
+Prepared:
 - [Day 8](./Day8/day8.md)
 - [Day 9](./Day9/day9.md)
 - [Day 10](./Day10/day10.md)
